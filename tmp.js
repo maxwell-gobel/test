@@ -1,1 +1,1 @@
-exit(0);
+console.log("asdfasdf
